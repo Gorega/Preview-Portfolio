@@ -7,10 +7,6 @@ let navSocialLinks = document.getElementById("nav-social-links");
 let navLogo = document.getElementById("nav-logo");
 let ulLi = document.querySelectorAll(".ul a");
 
-let mainPage = document.getElementById("main");
-let aboutPage = document.getElementById("about");
-let worksPage = document.getElementById("works")
-
 const works = [{
     backdrop:"./img/shopify_backdrop.jpeg",
     name:"Shopify",
